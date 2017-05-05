@@ -16,3 +16,5 @@ SQL injection queries used in "search.php" page(used to print userid and name of
 
 
 We should organize whole code in a standard way. Try to follow MVC . 
+
+No work has been done in last days. What the hell are you guys are doing
